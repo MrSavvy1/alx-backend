@@ -1,1 +1,1 @@
-The Flask Mega, Part XIII: I18n and L10n
+The Flask Mega - Part XIII: I18n and L10n
